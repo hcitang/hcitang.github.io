@@ -14,4 +14,9 @@ Feel free to adapt this theme to your site without linking back to me or includi
 ## To run it locally
 ```
 jekyll serve --watch --port 5000
-```# hcitang-academic-website
+```
+
+## To load it up
+```
+bundle update
+```
