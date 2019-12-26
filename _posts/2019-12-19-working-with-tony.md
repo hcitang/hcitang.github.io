@@ -3,8 +3,6 @@ layout: post
 title: Working with Tony
 ---
 
-# Working with Tony
-
 Graduate school is a unique experience for each person. Choosing to do a thesis-based degree is an even more interesting journey, as this demands a high level of self-discipline and will-power. There may be moments of self-doubt and of frustration, but there will be moments of joy, elation, and sublime satisfaction.
 
 A big determinant of this experience -- both good and bad -- is one's relationship with one's thesis supervisor. This document outlines my working style, and my expectations of you as a supervisee. It is a working "default," where there may be individual variations depending on circumstances (both temporary and ongoing). If you expect to need to vary from these defaults, then it is incumbent upon you to initiate the discussion with me. Similarly, if there is something you are uncertain about, please raise this in a discussion with me.
