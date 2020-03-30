@@ -27,12 +27,12 @@ links:
   - title: CV
     url: "/cv/"
   - title: Research
-    url: "http://ricelab.cpsc.ucalgary.ca"
+    url: "http://ricelab.github.io"
     external: true
   - title: Teaching
     url: "/teaching/"
   - title: Blog
-    url: "http://ricelab.cpsc.ucalgary.ca/blog/"
+    url: "http://ricelab.github.io/blog/"
     external: true
   - title: Resources
     url: /resources/
@@ -40,7 +40,7 @@ links:
     url: /fun/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Edmonton
+timezone:    America/Toronto
 future:      true
 #pygments:    true
 highlighter: rouge

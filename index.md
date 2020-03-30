@@ -4,7 +4,7 @@ title: Howdy ho!
 description: "Tony Tang's Academic Website"
 ---
 
-I am an Associate Professor in the [Faculty of Information](http://ischool.utoronto.ca) at the [University of Toronto](http://www.utoronto.ca). I direct the [RICELab (Rethinking Interaction, Collaboration and Engagement) research group](http://ricelab.cpsc.ucalgary.ca/). Previously, I was an Associate Professor in the [Department of Computer Science](http://www.cpsc.ucalgary.ca/) at the [University of Calgary](http://ucalgary.ca/). 
+I am an Associate Professor in the [Faculty of Information](http://ischool.utoronto.ca) at the [University of Toronto](http://www.utoronto.ca). I direct the [RICELab (Rethinking Interaction, Collaboration and Engagement) research group](http://ricelab.github.io/). Previously, I was an Associate Professor in the [Department of Computer Science](http://www.cpsc.ucalgary.ca/) at the [University of Calgary](http://ucalgary.ca/). 
 
 My current research explores the design, implementation and evaluation of novel systems for:
 * mixed reality interfaces for collaboration,

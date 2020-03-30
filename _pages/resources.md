@@ -20,7 +20,7 @@ permalink: "/resources/"
 * [Setting up EZProxy for UCalgary]({{site.baseurl}}/2018/ezproxy-setup/). The university has subscriptions to many major digital libraries. Getting this set up allows you to get PDFs from off-campus.
 * [Why you should use video](https://ricelab.github.io/young-tony-blog/2007/10/24/why-you-should-use-video/)
 * [Tips for Preparing an Oral Defense]({{site.baseurl}}/2018/oral-defense-tips/)
-* [How to do reviews for HCI conferences](http://ricelab.cpsc.ucalgary.ca/blog/2018/writing-reviews-for-hci/)
+* [How to do reviews for HCI conferences](http://ricelab.github.io/blog/2018/writing-reviews-for-hci/)
 
 ## Other
 * [Tips for Success: Reference Letters](http://grad.ucalgary.ca/awards/tips_for_success/reference_forms)
@@ -39,15 +39,15 @@ permalink: "/resources/"
 * [Writing a Research Paper]({{site.baseurl}}/2018/502-503-final-report/) (written for 502/503, but generally useful)
 
 ## Random
-* [Git Primer](http://ricelab.cpsc.ucalgary.ca/blog/2017/git-as-tony-understands-it/)
-* [Guide to Hong Kong](http://ricelab.cpsc.ucalgary.ca/blog/2018/guide-to-hk/)
+* [Git Primer](http://ricelab.github.io/blog/2017/git-as-tony-understands-it/)
+* [Guide to Hong Kong](http://ricelab.github.io/blog/2018/guide-to-hk/)
 
 ## Attending Conferences
-* [HCI Conferences 101](http://ricelab.cpsc.ucalgary.ca/blog/2016/hci-conferences-101/)
-* [Attending Conferences: Level 0](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-0/)
-* [Attending Conferences: Level 1](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-1/)
-* [Attending Conferences: Level 2](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-2/)
-* [Attending Conferences: Level 3](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-3/)
+* [HCI Conferences 101](http://ricelab.github.io/blog/2016/hci-conferences-101/)
+* [Attending Conferences: Level 0](http://ricelab.github.io/blog/2016/attending-conferences-level-0/)
+* [Attending Conferences: Level 1](http://ricelab.github.io/blog/2016/attending-conferences-level-1/)
+* [Attending Conferences: Level 2](http://ricelab.github.io/blog/2016/attending-conferences-level-2/)
+* [Attending Conferences: Level 3](http://ricelab.github.io/blog/2016/attending-conferences-level-3/)
 
 ## Program Committee Meetings
-* [Preparing for a PC Meeting](http://ricelab.cpsc.ucalgary.ca/blog/2014/pc-meetings-a-quiet-guys-perspective/)
+* [Preparing for a PC Meeting](http://ricelab.github.io/blog/2014/pc-meetings-a-quiet-guys-perspective/)
