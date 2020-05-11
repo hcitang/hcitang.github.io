@@ -11,6 +11,11 @@ I normally teach courses in User Experience Design, HCI and research methods.
 * INF2170H – Information Architecture
 
 ## Past Teaching
+* Winter 2020
+	* INF2310H - Designing UX for Mixed Reality Systems
+	* INF353 - Designing Interactive Systems
+* Fall 2019
+	* INF2170H - Information Architecture
 * Winter 2019
 	* [CPSC 599.90 - Design of Mixed Reality Interfaces](https://hcitang.github.io/599.90/)
 * Spring 2017
