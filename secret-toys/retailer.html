@@ -1,0 +1,44 @@
+<html>
+<script>
+var group_types = [ "Men's/Men's across two sites", 
+					"Women's/Women's across two sites", 
+					"Men's/Women's in one site"];
+
+var retailers = [ { name:"Gap", site:"http://gap.com"},
+				  { name:"Banana Republic", site:"https://bananarepublic.gapcanada.ca/"},
+				  { name:"Costco", site:"http://costco.ca"},
+				  { name:"Uniqlo", site:"https://www.uniqlo.com/ca/en/"}];
+
+function group_type() {
+	return group_types[Math.floor(Math.random() * group_types.length)];
+}
+function retailer() {
+	return retailers[Math.floor(Math.random() * retailers.length)];
+}
+function pretty_print(retailer) {
+	return '<a href="' + retailer.site + '">' + retailer.name + '</a>';
+}
+
+function go() {
+	var message = "Your group will be comparing";
+	var type = group_type();
+	message = message + " " + type;
+	if (type.includes("one")) {
+		message = message + " " + pretty_print(retailer()) + ".";
+	}
+	else {
+		do {
+			var r1 = retailer();
+			var r2 = retailer();
+		}
+		while (r1.name === r2.name);
+		message = message + " on: " + pretty_print(r1) + " and " + pretty_print(r2) + ".";
+	}
+	return message;
+}
+
+</script>
+<body>
+	<script>document.write(go())</script>
+</body>
+</html>
