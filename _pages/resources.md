@@ -17,6 +17,7 @@ permalink: "/resources/"
 * Saul's guide on [how to write related literature section](http://pages.cpsc.ucalgary.ca/~saul/wiki/pmwiki.php/Chapter1/HowToWriteALiteratureReview)
 * Another tip on related work: [it's like a cocktail party, and you're the host](http://www.youtube.com/watch?v=ZwA3IFOAuh8)
 * [Related Work Tutorial]({{site.baseurl}}/2018/related-work-tutorial/)
+* [Don't Pay for Research Papers]({{site.baseurl}}/2020/uoft-my-access/)
 * [Setting up EZProxy for UCalgary]({{site.baseurl}}/2018/ezproxy-setup/). The university has subscriptions to many major digital libraries. Getting this set up allows you to get PDFs from off-campus.
 * [Why you should use video](https://ricelab.github.io/young-tony-blog/2007/10/24/why-you-should-use-video/)
 * [Tips for Preparing an Oral Defense]({{site.baseurl}}/2018/oral-defense-tips/)
