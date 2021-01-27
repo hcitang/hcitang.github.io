@@ -5,6 +5,13 @@ title: Getting Access to Readings
 
 Do not pay for academic papers, because if you are a student, your institution probably has subscriptions to the publisher. (And your institution has paid BIG BUCKS for the subscription.)
 
+Three different ways to get access to papers:
+
+1. Bookmarklet to your institution's subscription (see how to do this below for U of T)
+2. [Set up Google Scholar to default to your institution's subscription](https://ricelab.github.io/blog/2015/google-scholar-howto/)
+3. Email the lead author of the paper to ask for a pre-print
+
+## Bookmarklet to access papers (UofT specific)
 
 Add the following as a bookmarklet (for Chrome):
 
