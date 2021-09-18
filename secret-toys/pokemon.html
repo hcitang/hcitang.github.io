@@ -1,0 +1,72 @@
+<html>
+<script>
+var strengths = {
+	"normal": [],
+	"fighting": ["normal", "rock", "ice", "dark"],
+	"flying": ["fighting", "bug", "grass"],
+	"poison": ["grass", "fairy"],
+	"ground": ["poison", "rock", "steel", "fire", "electric"],
+	"rock": ["flying", "bug", "fire", "ice"],
+	"bug": ["grass", "psychic", "dark"],
+	"ghost": ["ghost", "psychic"],
+	"steel": ["rock", "ice", "fairy"],
+	"fire": ["bug", "steel", "grass", "ice"],
+	"water": ["ground", "rock", "fire"],
+	"grass": ["ground", "rock", "water"],
+	"electric": ["flying", "water"],
+	"psychic": ["fighting", "poison"],
+	"ice": ["flying", "ground", "grass", "dragon"],
+	"dragon": ["dragon"],
+	"dark": ["ghost", "psychic"],
+	"fairy": ["fighting", "dragon", "dark"]
+};
+
+function weakness(pokemonType) {
+	var result = [];
+	for (key in strengths) {
+		if (strengths[key].includes(pokemonType)) {
+			result.push(key);
+		}
+	}
+	return result;
+}
+
+function pokemonTypes() {
+	return Array.from(Object.keys(strengths)).sort();
+}
+</script>
+<body>
+<h1>My Pokemon</h1>
+<select id="pokemon_strong_against_selector" onchange="populateStrongAgainst()"></select> is strong against...
+<p id="pokemon_strong_against_result" style="background: lightgrey" /></p>
+
+<h1>Enemy Pokemon</h1>
+<select id="pokemon_weak_to_selector" onchange="populateWeakTo()"></select> is weak to...
+<p id="pokemon_weak_to_result" style="background: lightgrey"></p>
+
+<script>
+	var selectors = ["pokemon_strong_against_selector", "pokemon_weak_to_selector"];
+	selectors.forEach((selector) => {
+		var select = document.getElementById(selector);
+		pokemonTypes().forEach((pokemonType) => {
+			var option = document.createElement("option");
+			option.textContent = pokemonType;
+			option.value = pokemonType;
+			select.add(option);
+		});
+	});
+
+	function populateStrongAgainst() {
+		var myPokemonIs = document.getElementById("pokemon_strong_against_selector").value;
+		document.getElementById("pokemon_strong_against_result").innerHTML = strengths[myPokemonIs].sort();
+
+	}
+
+	function populateWeakTo() {
+		var enemyPokemonIs = document.getElementById("pokemon_weak_to_selector").value;
+		document.getElementById("pokemon_weak_to_result").innerHTML = weakness(enemyPokemonIs).sort();
+	}
+
+
+</script>
+</body>
