@@ -22,6 +22,7 @@ permalink: "/resources/"
 * [Why you should use video](https://ricelab.github.io/young-tony-blog/2007/10/24/why-you-should-use-video/)
 * [Tips for Preparing an Oral Defense]({{site.baseurl}}/2018/oral-defense-tips/)
 * [How to do reviews for HCI conferences](http://ricelab.github.io/blog/2018/writing-reviews-for-hci/)
+* [Marc H. Raibert - Good Writing]({{site.baseurl}}/2021/good-writing/)
 
 ## Other
 * [Tips for Success: Reference Letters](http://grad.ucalgary.ca/awards/tips_for_success/reference_forms)
