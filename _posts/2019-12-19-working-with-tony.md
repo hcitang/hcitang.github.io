@@ -26,9 +26,9 @@ I like to think of myself as someone who gives tough love and says it as it is, 
 
 ## Meetings
 
-Meetings are a crucial part of how I supervise students. These include  planned, on-demand and impromptu meetings. My expectation for these meetings it that work on "world time" -- that is, they start on time.
+Meetings are a crucial part of how I supervise students. These include  planned, on-demand and impromptu meetings. My expectation for these meetings is that they work on "world time" -- that is, they start on time.
 
-**1-1 Meeting.** Minimally, I expect to see students at least one time at a regular, 1-1 meeting (usually 30 mins). We will use this time to get a quick update on your progress, as well as outlining your ongoing progress and plan for the upcoming week. We will also use this time to discuss challenges you are having, and for me to provide additional guidance as necessary. For these meetings, I have the following expectations:
+**1-1 Meeting.** Minimally, I expect to see students at least one time a week at a regular, 1-1 meeting (usually 30 mins). We will use this time to get a quick update on your progress, as well as outlining your ongoing progress and plan for the upcoming week. We will also use this time to discuss challenges you are having, and for me to provide additional guidance as necessary. For these meetings, I have the following expectations:
 
 * You will drive the meeting -- that is to say, you set the agenda and plan for the meeting: what are we going to talk about, and what do we need to spend time discussing.
 * You have made progress since the last time we met.
