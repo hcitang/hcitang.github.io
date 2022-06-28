@@ -13,6 +13,7 @@ permalink: "/resources/"
 
 ## Conducting Research
 * [Proposal Writing]({{site.baseurl}}/2018/proposal-writing/)
+* [Simon Peyton Jones' materials](https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/) - how to write a great research proposal; how to give a great research talk; how to write a great research paper
 * Clark, H. H. (1999). [Everyone Can Write Better (and You Are No Exception)](GradStudentTips/everyone-can-write-better.pdf). A quick, but super awesome read.
 * Saul's guide on [how to write related literature section](http://pages.cpsc.ucalgary.ca/~saul/wiki/pmwiki.php/Chapter1/HowToWriteALiteratureReview)
 * Another tip on related work: [it's like a cocktail party, and you're the host](http://www.youtube.com/watch?v=ZwA3IFOAuh8)
