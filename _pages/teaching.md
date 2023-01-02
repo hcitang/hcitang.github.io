@@ -8,9 +8,13 @@ title: Teaching
 I normally teach courses in User Experience Design, HCI and research methods.
 
 ## Upcoming and Current Teaching
-* INF2170H – Information Architecture
+* CS106 - Hardware and Embedded Systems
 
 ## Past Teaching
+* Winter 2022
+	* INF2260 - Speculative Design
+* Fall 2021
+	* INF2170H – Information Architecture
 * Winter 2020
 	* INF2310H - Designing UX for Mixed Reality Systems
 	* INF353 - Designing Interactive Systems
