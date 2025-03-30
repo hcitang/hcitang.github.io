@@ -9,6 +9,7 @@ I normally teach courses in User Experience Design, HCI and research methods.
 
 ## Upcoming and Current Teaching
 * CS106 - Hardware and Embedded Systems
+* COR-IS1704 - Computational Thinking and Programming
 
 ## Past Teaching
 * Winter 2022
